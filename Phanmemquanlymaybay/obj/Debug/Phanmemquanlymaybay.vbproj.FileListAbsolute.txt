@@ -1,0 +1,105 @@
+C:\Users\suzuk_000\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\suzuk_000\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\suzuk_000\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\suzuk_000\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.dangnhap.resources
+C:\Users\suzuk_000\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\suzuk_000\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Phanmemquanlymaybay.vbproj.GenerateResource.Cache
+C:\Users\suzuk_000\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\suzuk_000\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\suzuk_000\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\suzuk_000\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.phanmemquanlybanvemaybay.resources
+C:\Users\suzuk_000\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.thongtin.resources
+C:\Users\suzuk_000\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.banvechuyenbay.resources
+F:\Visual basic\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\bin\Debug\Phanmemquanlymaybay.exe
+F:\Visual basic\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\bin\Debug\Phanmemquanlymaybay.pdb
+F:\Visual basic\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\bin\Debug\Phanmemquanlymaybay.xml
+F:\Visual basic\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.banvechuyenbay.resources
+F:\Visual basic\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.dangnhap.resources
+F:\Visual basic\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.quanlychuyenbay.resources
+F:\Visual basic\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.Resources.resources
+F:\Visual basic\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.phanmemquanlybanvemaybay.resources
+F:\Visual basic\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.thongtin.resources
+F:\Visual basic\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\Phanmemquanlymaybay.vbproj.GenerateResource.Cache
+F:\Visual basic\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\Phanmemquanlymaybay.exe
+F:\Visual basic\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\Phanmemquanlymaybay.xml
+F:\Visual basic\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\Phanmemquanlymaybay.pdb
+F:\Visual basic\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.lichsu.resources
+F:\Visual basic\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.thongke.resources
+F:\Visual basic\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.manager.resources
+F:\Visual basic\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.sua.resources
+F:\Visual basic\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.thongtin_khachhang.resources
+C:\Users\suzuk_000\Desktop\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\Phanmemquanlymaybay.exe
+C:\Users\suzuk_000\Desktop\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\Phanmemquanlymaybay.xml
+C:\Users\suzuk_000\Desktop\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\Phanmemquanlymaybay.pdb
+C:\Users\suzuk_000\Desktop\Phanmemquanlymaybay\Phanmemquanlymaybay\bin\Debug\Phanmemquanlymaybay.exe
+C:\Users\suzuk_000\Desktop\Phanmemquanlymaybay\Phanmemquanlymaybay\bin\Debug\Phanmemquanlymaybay.pdb
+C:\Users\suzuk_000\Desktop\Phanmemquanlymaybay\Phanmemquanlymaybay\bin\Debug\Phanmemquanlymaybay.xml
+C:\Users\suzuk_000\Desktop\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.banvechuyenbay.resources
+C:\Users\suzuk_000\Desktop\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.dangnhap.resources
+C:\Users\suzuk_000\Desktop\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.lichsu.resources
+C:\Users\suzuk_000\Desktop\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.manager.resources
+C:\Users\suzuk_000\Desktop\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.quanlychuyenbay.resources
+C:\Users\suzuk_000\Desktop\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\suzuk_000\Desktop\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.phanmemquanlybanvemaybay.resources
+C:\Users\suzuk_000\Desktop\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.sua.resources
+C:\Users\suzuk_000\Desktop\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.thongke.resources
+C:\Users\suzuk_000\Desktop\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.thongtin.resources
+C:\Users\suzuk_000\Desktop\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.thongtin_khachhang.resources
+C:\Users\suzuk_000\Desktop\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\Phanmemquanlymaybay.vbproj.GenerateResource.Cache
+E:\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\Phanmemquanlymaybay.exe
+E:\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\Phanmemquanlymaybay.xml
+E:\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\Phanmemquanlymaybay.pdb
+E:\Phanmemquanlymaybay\Phanmemquanlymaybay\bin\Debug\Phanmemquanlymaybay.exe
+E:\Phanmemquanlymaybay\Phanmemquanlymaybay\bin\Debug\Phanmemquanlymaybay.pdb
+E:\Phanmemquanlymaybay\Phanmemquanlymaybay\bin\Debug\Phanmemquanlymaybay.xml
+E:\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.banvechuyenbay.resources
+E:\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.dangnhap.resources
+E:\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.lichsu.resources
+E:\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.manager.resources
+E:\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.quanlychuyenbay.resources
+E:\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.Resources.resources
+E:\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.phanmemquanlybanvemaybay.resources
+E:\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.start.resources
+E:\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.sua.resources
+E:\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.thongke.resources
+E:\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.thongtin.resources
+E:\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.thongtin_khachhang.resources
+E:\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\Phanmemquanlymaybay.vbproj.GenerateResource.Cache
+E:\Phanmemquanlymaybay1\Phanmemquanlymaybay\obj\Debug\Phanmemquanlymaybay.exe
+E:\Phanmemquanlymaybay1\Phanmemquanlymaybay\obj\Debug\Phanmemquanlymaybay.xml
+E:\Phanmemquanlymaybay1\Phanmemquanlymaybay\obj\Debug\Phanmemquanlymaybay.pdb
+E:\Phanmemquanlymaybay1\Phanmemquanlymaybay\bin\Debug\Phanmemquanlymaybay.exe
+E:\Phanmemquanlymaybay1\Phanmemquanlymaybay\bin\Debug\Phanmemquanlymaybay.pdb
+E:\Phanmemquanlymaybay1\Phanmemquanlymaybay\bin\Debug\Phanmemquanlymaybay.xml
+E:\Phanmemquanlymaybay1\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.banvechuyenbay.resources
+E:\Phanmemquanlymaybay1\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.dangnhap.resources
+E:\Phanmemquanlymaybay1\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.lichsu.resources
+E:\Phanmemquanlymaybay1\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.manager.resources
+E:\Phanmemquanlymaybay1\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.quanlychuyenbay.resources
+E:\Phanmemquanlymaybay1\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.Resources.resources
+E:\Phanmemquanlymaybay1\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.phanmemquanlybanvemaybay.resources
+E:\Phanmemquanlymaybay1\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.start.resources
+E:\Phanmemquanlymaybay1\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.sua.resources
+E:\Phanmemquanlymaybay1\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.thongke.resources
+E:\Phanmemquanlymaybay1\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.thongtin.resources
+E:\Phanmemquanlymaybay1\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.thongtin_khachhang.resources
+E:\Phanmemquanlymaybay1\Phanmemquanlymaybay\obj\Debug\Phanmemquanlymaybay.vbproj.GenerateResource.Cache
+C:\Users\suzuk_000\Desktop\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\Phanmemquanlymaybay.exe
+C:\Users\suzuk_000\Desktop\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\Phanmemquanlymaybay.xml
+C:\Users\suzuk_000\Desktop\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\Phanmemquanlymaybay.pdb
+C:\Users\suzuk_000\Desktop\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\bin\Debug\Phanmemquanlymaybay.exe
+C:\Users\suzuk_000\Desktop\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\bin\Debug\Phanmemquanlymaybay.pdb
+C:\Users\suzuk_000\Desktop\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\bin\Debug\Phanmemquanlymaybay.xml
+C:\Users\suzuk_000\Desktop\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.banvechuyenbay.resources
+C:\Users\suzuk_000\Desktop\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.dangnhap.resources
+C:\Users\suzuk_000\Desktop\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.lichsu.resources
+C:\Users\suzuk_000\Desktop\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.manager.resources
+C:\Users\suzuk_000\Desktop\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.quanlychuyenbay.resources
+C:\Users\suzuk_000\Desktop\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\suzuk_000\Desktop\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.phanmemquanlybanvemaybay.resources
+C:\Users\suzuk_000\Desktop\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.start.resources
+C:\Users\suzuk_000\Desktop\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.sua.resources
+C:\Users\suzuk_000\Desktop\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.thongke.resources
+C:\Users\suzuk_000\Desktop\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.thongtin.resources
+C:\Users\suzuk_000\Desktop\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\WindowsApplication1.thongtin_khachhang.resources
+C:\Users\suzuk_000\Desktop\thedtvpd00381_assignment_SOF101\Phanmemquanlymaybay\Phanmemquanlymaybay\obj\Debug\Phanmemquanlymaybay.vbproj.GenerateResource.Cache

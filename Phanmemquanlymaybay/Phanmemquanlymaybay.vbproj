@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1DC5CD38-6C95-45B0-9637-A22B4D1F8B1D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>Phanmemquanlymaybay</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Phanmemquanlymaybay.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Phanmemquanlymaybay.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dangnhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dangnhap.Designer.vb">
+      <DependentUpon>dangnhap.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="banvechuyenbay.Designer.vb">
+      <DependentUpon>banvechuyenbay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="banvechuyenbay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lichsu.Designer.vb">
+      <DependentUpon>lichsu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="lichsu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manager.Designer.vb">
+      <DependentUpon>Manager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pmbanvemaybay.vb" />
+    <Compile Include="quanlychuyenbay.Designer.vb">
+      <DependentUpon>quanlychuyenbay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="quanlychuyenbay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="start.Designer.vb">
+      <DependentUpon>start.vb</DependentUpon>
+    </Compile>
+    <Compile Include="start.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sua.Designer.vb">
+      <DependentUpon>sua.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sua.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="thongke.Designer.vb">
+      <DependentUpon>thongke.vb</DependentUpon>
+    </Compile>
+    <Compile Include="thongke.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="thongtin.Designer.vb">
+      <DependentUpon>thongtin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="thongtin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="phanmemquanlybanvemaybay.Designer.vb">
+      <DependentUpon>phanmemquanlybanvemaybay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="phanmemquanlybanvemaybay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="thongtin_khachhang.Designer.vb">
+      <DependentUpon>thongtin_khachhang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="thongtin_khachhang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="banvechuyenbay.resx">
+      <DependentUpon>banvechuyenbay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dangnhap.resx">
+      <DependentUpon>dangnhap.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lichsu.resx">
+      <DependentUpon>lichsu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager.resx">
+      <DependentUpon>Manager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="quanlychuyenbay.resx">
+      <DependentUpon>quanlychuyenbay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="phanmemquanlybanvemaybay.resx">
+      <DependentUpon>phanmemquanlybanvemaybay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="start.resx">
+      <DependentUpon>start.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sua.resx">
+      <DependentUpon>sua.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="thongke.resx">
+      <DependentUpon>thongke.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="thongtin.resx">
+      <DependentUpon>thongtin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="thongtin_khachhang.resx">
+      <DependentUpon>thongtin_khachhang.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\anh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\australia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\hanquoc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\my2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\nga.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\nhatban.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\phap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\sigapore.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\thailan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\vietnam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\y.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\halan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\tbn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\duc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\sec.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\lao.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\cpc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\cn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\ind.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\mala.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\philip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\image\myanma.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\start.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\save.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\back.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\manager.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\banve.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\quanly.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\thongke.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\lichsu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\mng.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\back2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\back3.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
